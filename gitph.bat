@@ -1,1 +1,1 @@
-powershell;$a=Get-Date -format g;git add *;git commit -m "$a";git push
+powershell;python ./clearexe.py;$a=Get-Date -format g;git add *;git commit -m "$a";git push
